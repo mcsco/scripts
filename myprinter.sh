@@ -20,9 +20,9 @@ fi
 
 # Clean up
 mkdir -vp ~/Downloads/brprinter
-mv brscan* ~/Downloads/brprinter/
-mv linux-brprinter* ~/Downloads/brprinter/
-mv mfcl2750dw* ~/Downloads/brprinter/
-mv uninstaller* ~/Downloads/brprinter/
+mv ~/Downloads/brscan* ~/Downloads/brprinter/
+mv ~/Downloads/linux-brprinter* ~/Downloads/brprinter/
+mv ~/Downloads/mfcl2750dw* ~/Downloads/brprinter/
+mv ~/Downloads/uninstaller* ~/Downloads/brprinter/
 
 cd ~/
